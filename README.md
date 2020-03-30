@@ -1,6 +1,7 @@
 ### 添加github Oauth
 > 添加github Oauth APP 拿到client_id, client_secret
->
+
+[添加OauthApp](https://github.com/settings/applications/new)
 
 ### 访问授权
 ```
